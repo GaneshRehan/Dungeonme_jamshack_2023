@@ -93,7 +93,7 @@ level_4 = [
     'xxxxx x xxx x x xxx xxx x',
     'x x x T   x xE  x x   x x',
     'x x x x xxxxx xxxxxxx xxx',
-    'x x x   x  x            x',
+    'x x x   x  x       T    x',
     'x x x xxxxx  xxxxxxxxxxxx',
     'x   x   x          E    x',
     'xxx x x x xxxxxxxxx xxx x',
