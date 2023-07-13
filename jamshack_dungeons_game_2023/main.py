@@ -7,7 +7,7 @@ import pygame
 from maze_generator import glevel
 
 # Register shapes
-images = ["wizard_right.gif", "wizard_left.gif", "treasure.gif", "wall.gif", "enemy_left.gif", "enemy_right.gif", "game_icon.gif", "bg_dungeon.gif", "final_image.gif"]
+images = ["wizard_right.gif", "wizard_left.gif", "treasure.gif", "wall.gif", "enemy_left.gif", "enemy_right.gif", "game_icon.gif", "bg_dungeon.gif"]
 for image in images:
     turtle.register_shape(image)
 
